@@ -1,2 +1,3 @@
 # Hello-world
-First repository
+Great work!! 
+All it take is your time!
